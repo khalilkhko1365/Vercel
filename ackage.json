@@ -1,0 +1,10 @@
+{
+  "name": "vercel-vless-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy to Cloudflare VLESS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
